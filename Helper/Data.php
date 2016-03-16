@@ -1,5 +1,5 @@
 <?php
-namespace /DK/Sitenews/Helper
+namespace DK\Sitenews\Helper
 class Data{
 	
 }
